@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53f4a0f4.css",
+    "main.js": "/static/js/main.51177450.js",
+    "static/js/453.4269a88b.chunk.js": "/static/js/453.4269a88b.chunk.js",
+    "static/media/testing.jpg": "/static/media/testing.b4a791a6187790992e82.jpg",
+    "static/media/data science.jpg": "/static/media/data science.dea219f6a2e046995802.jpg",
+    "static/media/cloud.jpg": "/static/media/cloud.0cfceb27abc65da108cf.jpg",
+    "static/media/fullstack development.jpg": "/static/media/fullstack development.9ba0183330fc2d77497a.jpg",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.57a2b0fe38310ac90c3d.jpg",
+    "static/media/Logo.png": "/static/media/Logo.f6251be02ab54afe5a21.png",
+    "static/media/data analyst.jpg": "/static/media/data analyst.def09036501b32a742e6.jpg",
+    "static/media/Logo-icon.png": "/static/media/Logo-icon.4f8f03f512b2763250e0.png",
+    "static/media/devops.jpg": "/static/media/devops.ea7203ecc19d1c8fe7ab.jpg",
+    "index.html": "/index.html",
+    "main.53f4a0f4.css.map": "/static/css/main.53f4a0f4.css.map",
+    "main.51177450.js.map": "/static/js/main.51177450.js.map",
+    "453.4269a88b.chunk.js.map": "/static/js/453.4269a88b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f4a0f4.css",
+    "static/js/main.51177450.js"
+  ]
+}
